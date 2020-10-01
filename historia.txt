@@ -5,3 +5,5 @@ I've been studying in Platzi to become a FullStack Software Developer.
 Manana nos enfocaremos en su vida laboral
 
 Hoy hablaremos de su vida
+
+Cambio de maestria
